@@ -1,0 +1,5 @@
+name        = "ns2_dmd_docking"
+source_dir  = "source"
+output_dir  = "output"
+description = [=[New Mod]=]
+image       = "preview.jpg"
