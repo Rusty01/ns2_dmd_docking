@@ -1,5 +1,21 @@
 name        = "ns2_dmd_docking"
 source_dir  = "source"
 output_dir  = "output"
-description = [=[New Mod]=]
+description = [=[Docking has had a facelift! We have made a few changes to this sweet map.
+
+Changes:
+
+-forced set Departures for Alien, Cafeteria for Marines.
+-moved Generator RT to the catwalk with a protective glass wall.
+-the train in Departures is much more visible with better lighting and more glass windows.
+-a working elevator! in Courtyard. Use the control on the catwalk to make the crane move up and down.
+-Classic vent from Central Access to Landing Bay with weldable gate to close it off.
+
+DISCLAIMER:
+
+The following people have contributed to this reconstruction:
+Rusty, WiseChoices.
+
+Please do not remove this notice board as we must give credit where credit is due.]=]
 image       = "preview.jpg"
+publish_id = "1fefe233"
